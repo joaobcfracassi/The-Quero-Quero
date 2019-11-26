@@ -3,6 +3,7 @@
 Ferramente de _front-end_ para interface do The Harvester.
 
 __Requisitos funcionais:__
+
 Uma interface de linha de comando customizado, para o The Harvester.
 Ao executar a ferramenta já irá aparecer uma serie de perguntas, bastando entrar com as informações pertinentes ao alvo que deseja pesquisar.
 Sendo algumas dessas funções:
@@ -12,6 +13,7 @@ Sendo algumas dessas funções:
 - [x] Pode as informações serem impressos na tela, ao final da varredura, ou enviados para um arquivo do tipo XML/HTML.
 
 __Requisitos não funcionais:__
+
 - [x] Sistema operacional Linux, preferência para o Kali ou qualquer outro que suporte o The Harvester.
 - [x] Interpretador Python 2.7 instalado, atualmente na versão 2.7.17.
 - [x] The Harvester instalado.
@@ -29,3 +31,28 @@ Como quiser, apenas mantenha os meus créditos.
 
 Para dúvidas, sugestões e/ou melhorias, basta me escrever um e-mail:
 _joaobcfracassi@gmail.com_
+
+
+__Utilização:__
+
+Permissão de execução:
+```
+chmod +x script.py
+```
+
+Execução:
+```
+python script.py
+```
+ou
+
+```
+./script.py
+```
+
+
+
+
+
+
+
