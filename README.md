@@ -2,6 +2,7 @@
 
 Ferramente de _front-end_ para interface do The Harvester.
 
+
 __Requisitos funcionais:__
 
 Uma interface de linha de comando customizado, para o The Harvester.
@@ -11,6 +12,7 @@ Sendo algumas dessas funções:
 - [x] A quantidade limite de buscas das informações, não há limite, mas quanto maior for, mais abrangente e demorado será.
 - [x] O data source, que é a fonte de dados, que pode ser o Google, entre outras opções.
 - [x] Pode as informações serem impressos na tela, ao final da varredura, ou enviados para um arquivo do tipo XML/HTML.
+
 
 __Requisitos não funcionais:__
 
@@ -33,22 +35,6 @@ Para dúvidas, sugestões e/ou melhorias, basta me escrever um e-mail:
 _joaobcfracassi@gmail.com_
 
 
-__Utilização:__
-
-Permissão de execução:
-```
-chmod +x script.py
-```
-
-Execução:
-```
-python script.py
-```
-ou
-
-```
-./script.py
-```
 
 
 
