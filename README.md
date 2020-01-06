@@ -21,10 +21,22 @@ __Requisitos não funcionais:__
 - [x] The Harvester instalado.
 - [x] Mozilla Firefox, para abertura dos arquivos XML/HTML.
 
+
+__Execução:__
+```
+python theQueroQuero.py
+python2 theQueroQuero.py
+```
+Ao executar o arquivo, o mesmo irá pedir uma série de informações como:   
+> Domínio a ser pesquisado, ex: google.com;   
+> Quantidade de Resultados da Pesquisa, ex: 1000;      
+> Fonte de Pesquisa, ex: Google;   
+
 Esse projeto faz parte dos meus estudos de "_Python para pentesting_":
 Foi desenvolvido para fins de aprendizagem acadêmica, com isso, está em constante evolução, 
 até futuramente, se tornar parte do The Harvester, ou uma ferramenta independente.
 
+Está sob licença GPL, mais informações no arquivo LICENSE.
 Então fique a vontade para:
 - [x] Copiar
 - [x] modificar
