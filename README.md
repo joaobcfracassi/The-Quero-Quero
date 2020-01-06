@@ -1,4 +1,4 @@
-### Quero-Quero Webmail and Web Filter
+### The Quero-Quero Webmail and Web Filter
 
 Ferramente de _front-end_ para interface do The Harvester.
 
