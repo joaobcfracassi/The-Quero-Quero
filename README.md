@@ -46,11 +46,3 @@ Como quiser, apenas mantenha os meus créditos.
 Para dúvidas, sugestões e/ou melhorias, basta me escrever um e-mail:
 _joaobcfracassi@gmail.com_
 
-
-
-
-
-
-
-
-
